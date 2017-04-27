@@ -11,6 +11,11 @@
 * 期望职位：前段工程师
 * Github：https://github.com/wangpeng28309
 
+工作能力
+----
+* 熟练掌握JavaScript、HTML、CSS
+* 熟悉NMP、Webpack、Gulp等前端工程化工具
+* 熟悉Node.JS
 
 教育背景
 ----
@@ -20,5 +25,7 @@
 工作经历
 -----
 北方导航科技集团有限公司 运营管理 2015.11-至今
+
+
 
 
