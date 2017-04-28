@@ -5,15 +5,15 @@
 联系方式
 ----
 * 手机：13522365386
-* Email：wangpeng28309@126.com
+* Email：[wangpeng28309@126.com](wangpeng28309@126.com)
 
 
 个人信息
 ----
 * 姓名：汪鹏
 * 学历：研究生
-* 简历：https://wangpeng28309.github.io/resume/
-* Github：https://github.com/wangpeng28309
+* 简历：[https://wangpeng28309.github.io/resume/](https://wangpeng28309.github.io/resume/)
+* Github：[https://github.com/wangpeng28309](https://github.com/wangpeng28309)
 
 工作能力
 ----
