@@ -18,7 +18,7 @@
 工作能力
 ----
 * 熟练掌握JavaScript、HTML、CSS
-* 熟悉JQuery等框架
+* 熟悉JQuery、Vue.js等框架
 * 熟悉NMP、Webpack、Gulp等前端工程化工具
 * 熟悉Node.JS
 
