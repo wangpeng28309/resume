@@ -18,9 +18,14 @@
 工作能力
 ----
 * 熟练掌握JavaScript、HTML、CSS
-* 熟悉JQuery、Vue.js等框架
+* 熟悉vue-cli、vue-resource、vue-router、Vue.js框架
 * 熟悉NMP、Webpack、Gulp等前端工程化工具
-* 熟悉Node.JS
+* 熟悉ES6、Node.JS
+
+项目经验
+----
+都是学习过程中的小项目，包括百度前段学院2016年题目及一个正在做的Vue小项目。
+* Github：[https://github.com/wangpeng28309](https://github.com/wangpeng28309)
 
 教育背景
 ----
