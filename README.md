@@ -24,8 +24,13 @@
 
 项目经验
 ----
-都是自学过程中的小项目，包括百度前段学院2017年题目及一个Vue小项目。
-* Github：[https://github.com/wangpeng28309](https://github.com/wangpeng28309)
+* 利用Vue.js仿饿了吗移动端页面
+  利用Vue.js、vue-router、vue-resource、vue-cli、及webpack构建工具实现饿了吗移动端页面
+  Github：[https://github.com/wangpeng28309/sell](https://github.com/wangpeng28309/sell)
+
+* Baidu ife 2017年 基础课程项目
+  对html、css及javascript内容进行实际练习和巩固，学习了ES6语法及gulp、webpack自动化构建工具
+  Github：[https://github.com/wangpeng28309/ife](https://github.com/wangpeng28309/ife)
 
 教育背景
 ----
@@ -33,7 +38,7 @@
 
 工作经历
 -----
-中国兵器导航科技集团有限公司 运营管理 2016.3-至今
+中国兵器工业集团公司 运营管理 2016.3-至今
 
 
 
