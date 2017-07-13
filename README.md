@@ -24,11 +24,11 @@
 
 项目经验
 ----
-一、利用Vue.js仿饿了吗移动端页面
+  一、利用Vue.js仿饿了吗移动端页面
 * 利用Vue.js、vue-router、vue-resource、vue-cli、及webpack构建工具实现饿了吗移动端页面
 * Github：[https://github.com/wangpeng28309/sell](https://github.com/wangpeng28309/sell)
 
-二、Baidu ife 2017年 基础课程项目
+  二、Baidu ife 2017年 基础课程项目
 * 对html、css及javascript内容进行实际练习和巩固，学习了ES6语法及gulp、webpack自动化构建工具
 * Github：[https://github.com/wangpeng28309/ife](https://github.com/wangpeng28309/ife)
 
